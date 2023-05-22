@@ -1,2 +1,2 @@
-var time = new Date();
+let time = new Date();
 console.log(time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds());
