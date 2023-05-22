@@ -1,2 +1,2 @@
 let time = new Date();
-console.log(time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds());
+console.log(time.getHours() + ":" + time.get Minutes() + ":" + time.getSeconds());
